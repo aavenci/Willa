@@ -1,0 +1,291 @@
+
+div#willa{
+	background: url("schoolbus1.jpg");
+	background-size: cover;
+	background-position: center;
+	width:50%;
+	height: 700px;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 10px;
+	border-width: 10px
+
+}
+
+button#ba{
+	background: none;
+	border: none;
+	width: 100%;
+	height: 100%;
+
+}
+
+
+div#us{
+	background: url("a6.jpg");
+	background-size: cover;
+	background-position: center;
+	width:50%;
+	height: 350px;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 10px;
+	border-width: 10px
+
+}
+
+button#bb{
+	background: none;
+	border: none;
+	width: 100%;
+	height: 100%;
+
+}
+
+div#build{
+	background: url("https://images.unsplash.com/photo-1505946061903-08cfdc4028d3?auto=format&fit=crop&w=1444&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+	background-size: cover;
+	background-position: center;
+	width:50%;
+	float:left;
+	height: 350px;
+	font-size: 45px;
+	color: gray;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 10px;
+	border-width: 10px
+
+}
+
+button#bc{
+	background: none;
+	border: none;
+	width: 100%;
+	height: 30%;
+
+}
+
+
+/*ABOUT CSS*/
+div#abby{
+	background: url("abby2.jpg");
+	background-size: cover;
+	background-position: top;
+	width:30%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 1000px;
+	border-width: 10px;
+}
+
+div#abbyBio{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	width:60%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Raleway Dots', cursive;
+}
+
+div#adam{
+	background: url("adam1.jpg");
+	background-size: cover;
+	background-position: top;
+	width:30%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 1000px;
+	border-width: 10px
+}
+
+div#adamBio{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	width:60%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Raleway Dots', cursive;
+}
+
+div#scar{
+	background: url("scar2.jpg");
+	background-size: cover;
+	background-position: bottom;
+	width:30%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 1000px;
+	border-width: 10px
+}
+
+div#scarBio{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	width:60%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Raleway Dots', cursive;
+}
+
+/*BLOG CSS*/
+
+div#buildpg{
+	background: url("https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1500&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+	background-size: cover;
+	background-position: top;
+	width:100%;
+	height: 600px;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+}
+
+p#buildheader{
+	font-family: 'Poiret One', cursive;
+}
+
+div#blogpic1{
+	width:30%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+}
+
+div#blog1{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	margin-bottom: 0;
+	width:55%;
+	height: 400px;
+	margin: 1.66%;
+	float:right;
+	font-size: 50px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Poiret One', cursive;
+}
+
+div#blogpic2{
+	width:30%;
+	height: 400px;
+	margin: 1.66%;
+	float:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+}
+
+div#blog2{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	margin-bottom: 0;
+	width:55%;
+	height: 400px;
+	margin: 1.66%;
+	float:right;
+	font-size: 50px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Poiret One', cursive;
+}
+
+/*Willa CSS*/
+
+
+div#willapicture{
+	background: url("willapicture.jpg");
+	background-size: cover;
+	background-position: center;
+	width:50%;
+	height: 500px;
+	margin: 0 25%;
+	clear:left;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 40px;
+	border-width: 10px
+}
+div#willainfo{
+	background-color: rgb(237, 237, 237);
+	background-size: cover;
+	background-position: bottom;
+	margin-bottom: 0;
+	width:100%;
+	height: 400px;
+	margin: 1.66%;
+	font-size: 30px;
+	color: rgb(81, 78, 81);
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	border-radius: 50px;
+	border-width: 10px;
+	font-family: 'Poiret One', cursive;
+}
+
